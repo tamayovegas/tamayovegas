@@ -17,39 +17,14 @@
 
 High-performing, UK-trained R&D Scientist-Engineer specializing in advanced science and engineering, with a proven record of technical distinction, measurable industry impact, and international recognition across 10+ years of multidisciplinary engineering and 8+ years of applied R&D.
 
-
-
 I bridge advanced science, multidisciplinary engineering, project management, Lean improvement, and innovation to transform complex physical problems into validated technologies and product-ready systems. 
-
-
 
 I lead work across the complete development lifecycle—from requirements, feasibility studies, and computational modeling to design, simulation, prototyping, testing, validation, documentation, and delivery.
 
 My expertise integrates electromagnetics, RF, MEMS, sensors, nanotechnology mechatronics, systems engineering, scientific computing, Multiphysics modeling, robotics, and Physical AI.
 
 
-
-Selected results:
-
-
-
-• Developed a patent-pending portable microwave characterization and wireless-sensing platform integrating antennas, chipless resonators, RF instrumentation, electromechanical positioning, and Software-based analysis.
-
-• Delivered 13 advanced science and engineering research outputs accepted for publication.
-
-• Advanced more than 40 multidisciplinary engineering and research projects from concept and requirements definition through simulation, prototype development, validation, and delivery.
-
-• Commissioned 23 electromechanical installations integrating motors, controllers, inverters, sensors, actuators, and embedded monitoring systems.
-
-• Delivered performance improvements of up to 40%, emergency-response-time reductions of up to 70%, project-cost reductions of up to 50%, engineering-workflow improvements of 30%, and software-cost reductions of 20%.
-
-• Coordinated technical activities involving more than 400 engineers, researchers, lecturers, students, and stakeholders while maintaining a 100% delivery rate across assigned engineering and research initiatives.
-
-• Deployed NVIDIA Omniverse, Isaac Sim, and Jetson across simulation, engineering education, project supervision, and academic-industry collaboration as an NVIDIA University Ambassador.
-
-
 My research and development combine electromagnetic, mechanical, diffusion, electrical-network, and materials models with experimental measurements. I have designed and validated RF sensing architectures, antennas, resonators, nanocomposite materials, embedded systems, autonomous platforms, and AI-enabled engineering applications.
-
 
 
 My focus is move scientific research toward reliable products and real-world deploymen
