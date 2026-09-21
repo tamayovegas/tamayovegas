@@ -2,7 +2,7 @@
   <img src="assets/profile-header.svg" alt="Sebastian Tamayo-Vegas: from physical insight to validated systems" width="100%" />
   <h1>Sebastian Tamayo-Vegas</h1>
   <p><strong>Scientist-engineer connecting physical science with working systems</strong><br />Nanomaterials · Electromagnetics · Scientific computing · Mechatronics</p>
-  <p>PhD in Mechanical and Electronics Engineering · Northumbria University</p>
+
   <p>
     <a href="mailto:mstv.engineering@gmail.com"><img src="assets/badges/email.svg" alt="Email Sebastian" width="126" height="36" /></a>
     <a href="https://github.com/tamayovegas"><img src="assets/badges/github.svg" alt="GitHub profile" width="134" height="36" /></a>
