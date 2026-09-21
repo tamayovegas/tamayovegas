@@ -25,6 +25,22 @@ I study how materials change, how electromagnetic measurements reveal those chan
 
 ---
 
+## Six Research Areas
+
+![Six connected science and engineering areas](assets/research-map.svg)
+
+The six areas organize my portfolio, but their projects have different evidence and maturity. Select an area to jump to its highlighted work.
+
+| Area | Representative work |
+| :-- | :-- |
+| [🔬 **01 · Advanced Science Nanotechnology**](#advanced-science-nanotechnology) | CNT/epoxy degradation, agglomeration, and temperature-dependent mechanics. |
+| [📡 **02 · Advanced Science Electromagnetism**](#advanced-science-electromagnetism) | Antennas, resonators, VNA processing, and contactless sensing. |
+| [🧮 **03 · Scientific Computing and Computational Engineering**](#scientific-computing-and-computational-engineering) | RVE/FEA, DEM, motion planning, numerical comparison, and AI workflows. |
+| [🤖 **04 · Advanced Mechatronics Engineering**](#advanced-mechatronics-engineering) | Integrated robotic mechanisms, electronics, control, and prototypes. |
+| [🏭 **05 · Industrial Engineering and Field Delivery**](#industrial-engineering-and-field-delivery) | Commissioning, monitoring, telecommunications, and project delivery. |
+| [🤝 **06 · Leadership, Project Management Engineering and Technology Transfer**](#leadership-project-management-engineering-and-technology-transfer) | Research coordination, laboratories, education, and technology transfer. |
+
+The visuals below are measurement-derived plots, computational output, or explanatory diagrams—not interchangeable forms of evidence. Their sources and limitations are in the [figure provenance notes](docs/figure-provenance.md).
 ## Science & Engineering Stack
 
 ### Programming languages
@@ -48,24 +64,6 @@ I study how materials change, how electromagnetic measurements reveal those chan
 | <img src="assets/icons/ai.svg" alt="AI network icon" width="25" /> **AI & physical AI** | RAG and PINN research workflows, applied ML/DL and computer vision, and Omniverse/Isaac Sim/Jetson education and prototyping. |
 
 **Engineering software:** MATLAB · Python · CST Studio Suite · ANSYS HFSS · COMSOL · Abaqus · SolidWorks. Tool mentions describe the supplied research and portfolio work; they are not a claim that every tool was used in every project.
-
-## Six Research Areas
-
-![Six connected science and engineering areas](assets/research-map.svg)
-
-The six areas organize my portfolio, but their projects have different evidence and maturity. Select an area to jump to its highlighted work.
-
-| Area | Representative work |
-| :-- | :-- |
-| [🔬 **01 · Advanced Science Nanotechnology**](#advanced-science-nanotechnology) | CNT/epoxy degradation, agglomeration, and temperature-dependent mechanics. |
-| [📡 **02 · Advanced Science Electromagnetism**](#advanced-science-electromagnetism) | Antennas, resonators, VNA processing, and contactless sensing. |
-| [🧮 **03 · Scientific Computing and Computational Engineering**](#scientific-computing-and-computational-engineering) | RVE/FEA, DEM, motion planning, numerical comparison, and AI workflows. |
-| [🤖 **04 · Advanced Mechatronics Engineering**](#advanced-mechatronics-engineering) | Integrated robotic mechanisms, electronics, control, and prototypes. |
-| [🏭 **05 · Industrial Engineering and Field Delivery**](#industrial-engineering-and-field-delivery) | Commissioning, monitoring, telecommunications, and project delivery. |
-| [🤝 **06 · Leadership, Project Management Engineering and Technology Transfer**](#leadership-project-management-engineering-and-technology-transfer) | Research coordination, laboratories, education, and technology transfer. |
-
-The visuals below are measurement-derived plots, computational output, or explanatory diagrams—not interchangeable forms of evidence. Their sources and limitations are in the [figure provenance notes](docs/figure-provenance.md).
-
 ### Advanced Science Nanotechnology
 
 I connect changes in a CNT/epoxy nanocomposite's physical state to its mechanical, electrical, and RF response.
