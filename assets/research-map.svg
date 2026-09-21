@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Connected R&amp;D practice</title>
+  <desc id="desc">Six connected research and engineering domains arranged around a science-to-validation workflow.</desc>
+  <rect width="1200" height="560" rx="28" fill="#F6F8F5"/>
+  <rect x="40" y="34" width="1120" height="88" rx="18" fill="#102D20"/>
+  <text x="80" y="72" fill="#B9D2C0" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">CONNECTED R&amp;D PRACTICE</text>
+  <text x="80" y="104" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="29" font-weight="700">Physics → Modelling → Instrumentation → Validation</text>
+  <path d="M150 275 H1050" stroke="#6D957B" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="150" cy="275" r="11" fill="#1D6B47"/><circle cx="330" cy="275" r="11" fill="#1D6B47"/><circle cx="510" cy="275" r="11" fill="#1D6B47"/><circle cx="690" cy="275" r="11" fill="#1D6B47"/><circle cx="870" cy="275" r="11" fill="#1D6B47"/><circle cx="1050" cy="275" r="11" fill="#1D6B47"/>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(45 164)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">01</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Nanotechnology</text><text x="20" y="83" fill="#587061" font-size="12">materials / transport</text></g>
+    <g transform="translate(225 304)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">02</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Electromagnetics</text><text x="20" y="83" fill="#587061" font-size="12">RF / sensing / antennas</text></g>
+    <g transform="translate(405 164)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">03</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Scientific Computing</text><text x="20" y="83" fill="#587061" font-size="12">FEM / AI / simulation</text></g>
+    <g transform="translate(585 304)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">04</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Mechatronics</text><text x="20" y="83" fill="#587061" font-size="12">robots / embedded systems</text></g>
+    <g transform="translate(765 164)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">05</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Field Delivery</text><text x="20" y="83" fill="#587061" font-size="12">systems / commissioning</text></g>
+    <g transform="translate(945 304)"><rect width="210" height="92" rx="16" fill="#FFFFFF" stroke="#B9D2C0" stroke-width="2"/><text x="20" y="36" fill="#1D6B47" font-size="15" font-weight="700">06</text><text x="20" y="64" fill="#102D20" font-size="17" font-weight="700">Technology Transfer</text><text x="20" y="83" fill="#587061" font-size="12">leadership / education</text></g>
+  </g>
+  <text x="600" y="494" text-anchor="middle" fill="#1D6B47" font-family="Arial, sans-serif" font-size="18" font-weight="700">From physical research to validated technology</text>
+</svg>

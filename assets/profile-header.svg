@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sebastian Tamayo-Vegas - physics-led research and engineering</title>
+  <desc id="desc">A green scientific banner connecting material structure, wave propagation, measurement, and validated engineering.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0" stop-color="#10281f"/>
+      <stop offset="0.58" stop-color="#17422e"/>
+      <stop offset="1" stop-color="#28704b"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#6ac89a" stop-opacity="0"/>
+      <stop offset="0.38" stop-color="#b8e8ca"/>
+      <stop offset="1" stop-color="#d2f3dc" stop-opacity="0.24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="360" rx="28" fill="url(#background)"/>
+  <path d="M0 298 C220 232 354 357 582 288 S965 304 1400 208" fill="none" stroke="#8fdbad" stroke-opacity="0.15" stroke-width="2"/>
+  <path d="M0 323 C234 258 376 381 606 312 S994 328 1400 234" fill="none" stroke="#8fdbad" stroke-opacity="0.11" stroke-width="2"/>
+  <g fill="none" stroke="#9bdcb7" stroke-opacity="0.3">
+    <circle cx="1140" cy="170" r="77"/>
+    <circle cx="1140" cy="170" r="118"/>
+    <circle cx="1140" cy="170" r="162"/>
+  </g>
+  <g fill="none" stroke="#bdebd0" stroke-width="2.5" stroke-linecap="round">
+    <path d="M880 191 C929 191 935 114 979 114 S1028 239 1071 239 S1119 145 1162 145 S1210 217 1253 217 S1293 170 1350 170"/>
+    <path d="M880 223 C946 223 960 267 1022 267 S1085 201 1140 201 S1220 275 1281 275 S1330 238 1380 238" stroke-opacity="0.35"/>
+  </g>
+  <g stroke="url(#signal)" stroke-width="2" fill="none">
+    <path d="M925 90 L972 62 L1019 90 L1019 145 L972 173 L925 145 Z"/>
+    <path d="M1019 90 L1066 62 L1113 90 L1113 145 L1066 173 L1019 145"/>
+    <path d="M972 173 L972 228 L1019 256 L1066 228 L1066 173"/>
+  </g>
+  <g fill="#b7edce">
+    <circle cx="925" cy="90" r="5"/><circle cx="972" cy="62" r="5"/><circle cx="1019" cy="90" r="5"/>
+    <circle cx="1066" cy="62" r="5"/><circle cx="1113" cy="90" r="5"/><circle cx="1019" cy="145" r="5"/>
+    <circle cx="972" cy="173" r="5"/><circle cx="1066" cy="173" r="5"/><circle cx="1019" cy="256" r="5"/>
+  </g>
+  <text x="66" y="64" fill="#a5d8b9" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SEBASTIAN TAMAYO-VEGAS  /  R&amp;D PORTFOLIO</text>
+  <text x="66" y="146" fill="#f6fff8" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">From physical insight</text>
+  <text x="66" y="216" fill="#f6fff8" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">to validated systems</text>
+  <rect x="66" y="260" width="694" height="54" rx="14" fill="#ffffff" fill-opacity="0.1" stroke="#b7edce" stroke-opacity="0.32"/>
+  <text x="86" y="293" fill="#e0f5e7" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1">MATERIALS   /   ELECTROMAGNETICS   /   COMPUTATION   /   MECHATRONICS</text>
+</svg>

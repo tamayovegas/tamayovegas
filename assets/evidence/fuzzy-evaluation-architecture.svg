@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900" role="img" aria-labelledby="title desc">
+  <title id="title">Type-1 and interval Type-2 fuzzy evaluation architecture</title>
+  <desc id="desc">Four evidence-based inputs feed parallel Type-1 and interval Type-2 Mamdani systems. The latter models reviewer and evidence uncertainty. Both produce project quality and project-based learning-outcome evidence.</desc>
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#607180"/></marker>
+    <style>
+      .title{font:700 31px Arial,sans-serif;fill:#17324D}.sub{font:400 15px Arial,sans-serif;fill:#506273}.h{font:700 18px Arial,sans-serif;fill:#17324D}.b{font:400 14px Arial,sans-serif;fill:#243447}.s{font:400 11px Arial,sans-serif;fill:#506273}.box{fill:#FFFFFF;stroke:#B9C5D1;stroke-width:2}.input{fill:#E7EEF7;stroke:#17324D}.t1{fill:#E7EEF7;stroke:#17324D}.t2{fill:#DDEFEF;stroke:#147D7E}.review{fill:#FFF1CC;stroke:#B47A00}.out{fill:#E5F3EA;stroke:#2D7A4D}.arr{stroke:#607180;stroke-width:2.4;fill:none;marker-end:url(#a)}.dash{stroke:#607180;stroke-width:1.8;stroke-dasharray:7 6;fill:none;marker-end:url(#a)}
+    </style>
+  </defs>
+  <rect width="1500" height="900" fill="#FFFFFF"/>
+  <text x="750" y="52" text-anchor="middle" class="title">Type-1 and Interval Type-2 Fuzzy Evaluation Architecture</text>
+  <text x="750" y="80" text-anchor="middle" class="sub">Outcome aggregation is kept separate from methodology, policy, dissemination, and adoption codes</text>
+
+  <text x="205" y="130" text-anchor="middle" class="h">Project-level evidence inputs [0,1]</text>
+  <rect x="60" y="165" width="290" height="105" rx="14" class="box input"/><text x="205" y="202" text-anchor="middle" class="h">Prototype completeness</text><text x="205" y="233" text-anchor="middle" class="b">idea → partial → integrated → advanced</text>
+  <rect x="60" y="295" width="290" height="105" rx="14" class="box input"/><text x="205" y="332" text-anchor="middle" class="h">Innovation level</text><text x="205" y="363" text-anchor="middle" class="b">replication → adaptation → validated novelty</text>
+  <rect x="60" y="425" width="290" height="105" rx="14" class="box input"/><text x="205" y="462" text-anchor="middle" class="h">AI integration</text><text x="205" y="493" text-anchor="middle" class="b">none → proposed → functional → advanced</text>
+  <rect x="60" y="555" width="290" height="105" rx="14" class="box input"/><text x="205" y="592" text-anchor="middle" class="h">Documentation quality</text><text x="205" y="623" text-anchor="middle" class="b">fragmentary → reproducible → auditable</text>
+
+  <rect x="445" y="160" width="365" height="250" rx="18" class="box t1"/>
+  <text x="627" y="205" text-anchor="middle" class="h">Type-1 Mamdani FIS</text>
+  <text x="627" y="244" text-anchor="middle" class="b">Crisp input scores</text>
+  <text x="627" y="276" text-anchor="middle" class="b">Upper membership functions</text>
+  <text x="627" y="308" text-anchor="middle" class="b">192 monotonicity-audited rules</text>
+  <text x="627" y="340" text-anchor="middle" class="b">min implication • max aggregation</text>
+  <text x="627" y="372" text-anchor="middle" class="b">centroid defuzzification</text>
+  <rect x="480" y="438" width="295" height="95" rx="14" class="box"/>
+  <text x="627" y="472" text-anchor="middle" class="h">Deterministic baseline</text>
+  <text x="627" y="502" text-anchor="middle" class="s">Same evidence produces one reproducible output pair</text>
+
+  <rect x="870" y="160" width="390" height="280" rx="18" class="box t2"/>
+  <text x="1065" y="205" text-anchor="middle" class="h">Interval Type-2 Mamdani FIS</text>
+  <text x="1065" y="244" text-anchor="middle" class="b">Upper + lower membership functions</text>
+  <text x="1065" y="276" text-anchor="middle" class="b">Footprint of uncertainty (FOU)</text>
+  <text x="1065" y="308" text-anchor="middle" class="b">Same 192 audited rule antecedents/consequents</text>
+  <text x="1065" y="340" text-anchor="middle" class="b">Enhanced Karnik–Mendel type reduction</text>
+  <text x="1065" y="372" text-anchor="middle" class="b">centroid defuzzification</text>
+  <text x="1065" y="407" text-anchor="middle" class="s">Current LowerScale 0.90 / LowerLag 0.10 = sensitivity baseline</text>
+
+  <rect x="870" y="485" width="390" height="150" rx="16" class="box review"/>
+  <text x="1065" y="524" text-anchor="middle" class="h">Empirical uncertainty calibration</text>
+  <text x="1065" y="558" text-anchor="middle" class="b">Instructor • engineer • domain/stakeholder reviewer</text>
+  <text x="1065" y="588" text-anchor="middle" class="b">Independent ratings + page evidence + disagreement</text>
+  <text x="1065" y="615" text-anchor="middle" class="s">Required before claiming uncertainty is empirically estimated</text>
+  <path d="M1065 485 L1065 440" class="arr"/>
+
+  <text x="400" y="150" text-anchor="middle" class="s">same evidence vector</text>
+  <line x1="400" y1="218" x2="400" y2="608" stroke="#607180" stroke-width="2.4"/>
+  <line x1="350" y1="218" x2="400" y2="218" stroke="#607180" stroke-width="2.4"/><line x1="350" y1="348" x2="400" y2="348" stroke="#607180" stroke-width="2.4"/><line x1="350" y1="478" x2="400" y2="478" stroke="#607180" stroke-width="2.4"/><line x1="350" y1="608" x2="400" y2="608" stroke="#607180" stroke-width="2.4"/>
+  <path d="M400 300 L445 300" class="arr"/>
+  <path d="M400 218 C545 105 725 105 870 240" class="dash"/>
+
+  <rect x="530" y="700" width="440" height="130" rx="18" class="box out"/>
+  <text x="750" y="742" text-anchor="middle" class="h">Two project-level outputs</text>
+  <text x="750" y="779" text-anchor="middle" class="b">Overall Project Quality</text>
+  <text x="750" y="808" text-anchor="middle" class="b">Project-Based Learning-Outcome Evidence</text>
+  <path d="M627 533 C627 620 690 650 710 700" class="arr"/><path d="M1065 635 C1065 670 870 665 790 700" class="arr"/>
+
+  <rect x="1040" y="700" width="390" height="130" rx="16" class="box"/>
+  <text x="1235" y="738" text-anchor="middle" class="h">Interpretation controls</text>
+  <text x="1235" y="773" text-anchor="middle" class="b">Different Type-2 outputs ≠ greater accuracy</text>
+  <text x="1235" y="803" text-anchor="middle" class="b">Sensitivity bounds ≠ confidence intervals</text>
+  <path d="M970 765 L1040 765" class="dash"/>
+
+  <text x="60" y="870" class="sub">Traditional, Agile, Lean, stakeholder, SDG, Ecuadorian, publication, and product-use variables are analyzed outside this four-input FIS.</text>
+</svg>

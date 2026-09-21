@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Robotic turtle system from the original presentation">
+  <rect width="1000" height="280" fill="#f6faf6"/>
+  <text x="32" y="44" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#173d2b">Robotic turtle: design-to-test system</text>
+  <g font-family="Arial,sans-serif" fill="#173d2b" font-size="15">
+    <rect x="30" y="91" width="198" height="120" rx="14" fill="#e3f0e5" stroke="#2d7051" stroke-width="2"/>
+    <text x="46" y="122" font-weight="bold">Bio-inspired gait</text><text x="46" y="150">Turtle flipper cycle</text><text x="46" y="178">Presentation slides 8–9</text>
+    <rect x="274" y="91" width="198" height="120" rx="14" fill="#e3f0e5" stroke="#2d7051" stroke-width="2"/>
+    <text x="290" y="122" font-weight="bold">Mechanical design</text><text x="290" y="150">Two-DOF flippers</text><text x="290" y="178">SolidWorks assembly</text>
+    <rect x="518" y="91" width="198" height="120" rx="14" fill="#e3f0e5" stroke="#2d7051" stroke-width="2"/>
+    <text x="534" y="122" font-weight="bold">Actuation + control</text><text x="534" y="150">Torque / force model</text><text x="534" y="178">Prototype integration</text>
+    <rect x="762" y="91" width="208" height="120" rx="14" fill="#e3f0e5" stroke="#2d7051" stroke-width="2"/>
+    <text x="778" y="122" font-weight="bold">Sand tests</text><text x="778" y="150">Coarse / fine; dry / wet</text><text x="778" y="178">Presentation slides 19–22</text>
+  </g>
+  <g stroke="#2d7051" stroke-width="3" fill="none"><path d="M230 151h37"/><path d="M474 151h37"/><path d="M718 151h37"/></g>
+  <g fill="#2d7051"><path d="m269 151-10-6v12z"/><path d="m513 151-10-6v12z"/><path d="m757 151-10-6v12z"/></g>
+  <text x="32" y="251" font-family="Arial,sans-serif" font-size="13" fill="#486553">Explanatory diagram based on supplied slides, CAD, and demonstration media; not a new experiment.</text>
+</svg>
