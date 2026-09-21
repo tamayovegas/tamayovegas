@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile2.gif" alt="Sebastian Tamayo-Vegas: from physical insight to validated systems" width="100%" />
+  <img src="assets/profile1.gif" alt="Sebastian Tamayo-Vegas: from physical insight to validated systems" width="100%" />
   <h1>Sebastian Tamayo-Vegas</h1>
   <p><strong>Scientist-engineer connecting physical science with working systems</strong><br />Nanomaterials · Electromagnetics · Scientific computing · Mechatronics</p>
 
