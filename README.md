@@ -1,82 +1,79 @@
 <div align="center">
   <img src="assets/profile-header.svg" alt="Sebastian Tamayo-Vegas: from physical insight to validated systems" width="100%" />
   <h1>Sebastian Tamayo-Vegas</h1>
-  <p><strong>Physics-led R&amp;D scientist-engineer</strong><br />Nanomaterials · Electromagnetics · Scientific computing · Mechatronics</p>
+  <p><strong>Scientist-engineer connecting physical science with working systems</strong><br />Nanomaterials · Electromagnetics · Scientific computing · Mechatronics</p>
   <p>PhD in Mechanical and Electronics Engineering · Northumbria University</p>
   <p>
-    <a href="https://tamayovegas.com/"><img src="https://img.shields.io/badge/Research%20portfolio-tamayovegas.com-1D6B47?style=for-the-badge" alt="Research portfolio" /></a>
-    <a href="https://www.linkedin.com/in/sebastian-tamayo"><img src="https://img.shields.io/badge/Connect-LinkedIn-245B42?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
+    <a href="mailto:mstv.engineering@gmail.com"><img src="assets/badges/email.svg" alt="Email Sebastian" width="126" height="36" /></a>
+    <a href="https://github.com/tamayovegas"><img src="assets/badges/github.svg" alt="GitHub profile" width="134" height="36" /></a>
+    <a href="https://www.linkedin.com/in/sebastian-tamayo"><img src="assets/badges/linkedin.svg" alt="LinkedIn profile" width="144" height="36" /></a>
+    <br />
+    <a href="https://tamayovegas.com/"><img src="assets/badges/website.svg" alt="Research portfolio website" width="142" height="36" /></a>
+    <a href="https://www.bambootech.space/"><img src="assets/badges/blog.svg" alt="Research blog" width="112" height="36" /></a>
   </p>
 </div>
 
-High-performing, UK-trained R&D Scientist-Engineer specializing in advanced science and engineering, with a proven record of technical distinction, measurable industry impact, and international recognition across 10+ years of multidisciplinary engineering and 8+ years of applied R&D.
+## About
 
-
-
-I bridge advanced science, multidisciplinary engineering, project management, Lean improvement, and innovation to transform complex physical problems into validated technologies and product-ready systems. 
-
-
-
-I lead work across the complete development lifecycle—from requirements, feasibility studies, and computational modeling to design, simulation, prototyping, testing, validation, documentation, and delivery.
-
-My expertise integrates electromagnetics, RF, MEMS, sensors, nanotechnology mechatronics, systems engineering, scientific computing, Multiphysics modeling, robotics, and Physical AI.
-
-
-
-Selected results:
-
-
-
-• Developed a patent-pending portable microwave characterization and wireless-sensing platform integrating antennas, chipless resonators, RF instrumentation, electromechanical positioning, and Software-based analysis.
-
-• Delivered 13 advanced science and engineering research outputs accepted for publication.
-
-• Advanced more than 40 multidisciplinary engineering and research projects from concept and requirements definition through simulation, prototype development, validation, and delivery.
-
-• Commissioned 23 electromechanical installations integrating motors, controllers, inverters, sensors, actuators, and embedded monitoring systems.
-
-• Delivered performance improvements of up to 40%, emergency-response-time reductions of up to 70%, project-cost reductions of up to 50%, engineering-workflow improvements of 30%, and software-cost reductions of 20%.
-
-• Coordinated technical activities involving more than 400 engineers, researchers, lecturers, students, and stakeholders while maintaining a 100% delivery rate across assigned engineering and research initiatives.
-
-• Deployed NVIDIA Omniverse, Isaac Sim, and Jetson across simulation, engineering education, project supervision, and academic-industry collaboration as an NVIDIA University Ambassador.
-
-
-
-My research and development combine electromagnetic, mechanical, diffusion, electrical-network, and materials models with experimental measurements. I have designed and validated RF sensing architectures, antennas, resonators, nanocomposite materials, embedded systems, autonomous platforms, and AI-enabled engineering applications.
-
-
-
-My focus is move scientific research toward reliable products and real-world deploymen.
+I study how materials change, how electromagnetic measurements reveal those changes, and how models turn observations into engineering decisions. My work crosses CNT/polymer nanocomposites, passive RF sensing, scientific software, robotics, and field delivery. The common thread is connecting a physical question to a model, an instrument, and evidence that can be checked.
 
 <p align="center"><strong>Physics → modelling → instrumentation → validation</strong></p>
 
-[Research map](#research-map) · [Six research areas in action](#six-research-areas-in-action) · [Methods](#methods) · [Connect](#connect)
+<p align="center"><strong>🧭 Quick navigation</strong><br />
+<a href="#about">About</a> · <a href="#science--engineering-stack">Science &amp; Engineering Stack</a> · <a href="#six-research-areas">Six Research Areas</a> · <a href="#skills--interests">Skills &amp; Interests</a> · <a href="#connect">Connect</a>
+</p>
 
 ---
 
-## Research map
+## Science & Engineering Stack
+
+### Programming languages
+
+<p align="center">
+  <img src="assets/badges/python.svg" alt="Python" width="122" height="36" />
+  <img src="assets/badges/matlab.svg" alt="MATLAB" width="126" height="36" />
+  <img src="assets/badges/julia.svg" alt="Julia" width="102" height="36" />
+  <img src="assets/badges/cpp.svg" alt="C++" width="106" height="36" />
+  <img src="assets/badges/csharp.svg" alt="C#" width="100" height="36" />
+</p>
+
+### Methods, instruments, and platforms
+
+| Layer | What I use it for |
+| :-- | :-- |
+| <img src="assets/icons/rve.svg" alt="Representative volume element icon" width="25" /> **RVE & multiscale materials** | Microstructure, agglomeration, micromechanics, and conductivity/percolation models. |
+| <img src="assets/icons/fem.svg" alt="Finite-element mesh icon" width="25" /> **FEM / FEA** | Mechanical, diffusion, and electromagnetic field modelling; comparison with experiments. |
+| <img src="assets/icons/dem.svg" alt="Discrete-element particles icon" width="25" /> **DEM** | Particle-contact modelling, including the supplied backhoe-tooth wear study. |
+| <img src="assets/icons/rf.svg" alt="Radio-frequency waves icon" width="25" /> **RF & materials characterization** | Antennas, resonators, VNA/NanoVNA S-parameters, DMA, nanoindentation, and conductivity measurements. |
+| <img src="assets/icons/ai.svg" alt="AI network icon" width="25" /> **AI & physical AI** | RAG and PINN research workflows, applied ML/DL and computer vision, and Omniverse/Isaac Sim/Jetson education and prototyping. |
+
+**Engineering software:** MATLAB · Python · CST Studio Suite · ANSYS HFSS · COMSOL · Abaqus · SolidWorks. Tool mentions describe the supplied research and portfolio work; they are not a claim that every tool was used in every project.
+
+## Six Research Areas
 
 ![Six connected science and engineering areas](assets/research-map.svg)
 
-The six areas below are the organizing structure for my research and engineering portfolio. They describe connected work, not six claims of identical project maturity.
+The six areas organize my portfolio, but their projects have different evidence and maturity. Select an area to jump to its highlighted work.
 
 | Area | Representative work |
 | :-- | :-- |
-| [**01 · Advanced Science Nanotechnology**](#advanced-science-nanotechnology) | CNT/epoxy acid exposure, diffusion, agglomeration, conductivity, and temperature-dependent mechanics. |
-| [**02 · Advanced Science Electromagnetism**](#advanced-science-electromagnetism) | Patch antennas, passive resonators, S-parameters, VNA/NanoVNA measurement, and contactless sensing. |
-| [**03 · Scientific Computing and Computational Engineering**](#scientific-computing-and-computational-engineering) | RVE/FEA, electrical networks, DEM wear studies, numerical comparison, MATLAB, Python, and AI research workflows. |
-| [**04 · Advanced Mechatronics Engineering**](#advanced-mechatronics-engineering) | Robotic mechanisms, electromechanical integration, sensing hardware, control, and prototype evaluation. |
-| [**05 · Industrial Engineering and Field Delivery**](#industrial-engineering-and-field-delivery) | Commissioning, remote monitoring, telecommunications implementation, and engineering-project delivery. |
-| [**06 · Leadership, Project Management Engineering and Technology Transfer**](#leadership-project-management-engineering-and-technology-transfer) | Research coordination, laboratories, curriculum development, multidisciplinary projects, and applied knowledge transfer. |
+| [🔬 **01 · Advanced Science Nanotechnology**](#advanced-science-nanotechnology) | CNT/epoxy degradation, agglomeration, and temperature-dependent mechanics. |
+| [📡 **02 · Advanced Science Electromagnetism**](#advanced-science-electromagnetism) | Antennas, resonators, VNA processing, and contactless sensing. |
+| [🧮 **03 · Scientific Computing and Computational Engineering**](#scientific-computing-and-computational-engineering) | RVE/FEA, DEM, motion planning, numerical comparison, and AI workflows. |
+| [🤖 **04 · Advanced Mechatronics Engineering**](#advanced-mechatronics-engineering) | Integrated robotic mechanisms, electronics, control, and prototypes. |
+| [🏭 **05 · Industrial Engineering and Field Delivery**](#industrial-engineering-and-field-delivery) | Commissioning, monitoring, telecommunications, and project delivery. |
+| [🤝 **06 · Leadership, Project Management Engineering and Technology Transfer**](#leadership-project-management-engineering-and-technology-transfer) | Research coordination, laboratories, education, and technology transfer. |
 
-## Six research areas in action
-
-Each highlight opens a piece of the actual portfolio: a measurement-derived plot, a computational output, or a diagram built from the supplied project material. The [figure provenance notes](docs/figure-provenance.md) distinguish these evidence types.
+The visuals below are measurement-derived plots, computational output, or explanatory diagrams—not interchangeable forms of evidence. Their sources and limitations are in the [figure provenance notes](docs/figure-provenance.md).
 
 ### Advanced Science Nanotechnology
 
-**Highlight · CNT/epoxy under acid exposure.** I connect changes in a nanocomposite's physical state to its mechanical, electrical, and RF response. The work combines exposure experiments with diffusion, conductivity, DMA, nanoindentation, and multiscale models. Related studies examine [contactless characterization](https://doi.org/10.1016/j.compstruct.2022.116508), [agglomeration](https://doi.org/10.3390/polym14091842), and [temperature-dependent mechanics](https://doi.org/10.1016/j.matpr.2022.01.480).
+I connect changes in a CNT/epoxy nanocomposite's physical state to its mechanical, electrical, and RF response.
+
+| Highlight | Evidence |
+| :-- | :-- |
+| **Acid exposure and contactless characterization** | Experimental RF response and multiscale interpretation; [published study](https://doi.org/10.1016/j.compstruct.2022.116508). |
+| **Agglomeration and temperature effects** | Conductivity/DMA comparisons with RVE, FEA, and electrical models; [agglomeration study](https://doi.org/10.3390/polym14091842) and [temperature study](https://doi.org/10.1016/j.matpr.2022.01.480). |
 
 <details>
 <summary><strong>Explore the supplied acid-exposure RF data</strong></summary>
@@ -89,7 +86,12 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 ### Advanced Science Electromagnetism
 
-**Highlight · passive resonators and material-wave interaction.** Antenna and resonator designs become useful when their simulated signatures can be compared with what a VNA actually records. My archive brings together patch, helical, Vivaldi, and resonator models; fabrication records; S-parameter logs; and sensing configurations.
+The research connects electromagnetic design with instrument readings, especially where a material or void changes a resonant response.
+
+| Highlight | Evidence |
+| :-- | :-- |
+| **Antennas and chipless resonators** | Patch, helical, and Vivaldi models, fabrication records, and scattering/RCS results; simulated and measured evidence. |
+| **VNA/NanoVNA processing** | Original S-parameter logs, measurement notebooks, and acquisition-to-analysis workflows. |
 
 <details>
 <summary><strong>Explore measured resonator-versus-void transmission</strong></summary>
@@ -102,7 +104,13 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 ### Scientific Computing and Computational Engineering
 
-**Highlight · models that can be checked against observations.** I use representative volume elements, finite-element and electrical-network models, particle simulation, and data analysis to ask where a physical explanation agrees—or fails to agree—with measurements. The same computational discipline extends to MATLAB motion-planning experiments and research-oriented AI workflows.
+I use scientific code to test explanations against data, then make the modelling assumptions and comparisons visible.
+
+| Highlight | Evidence |
+| :-- | :-- |
+| **CNT multiscale models** | RVE/FEA, resistor networks, simulation tables, and model-versus-experiment figures. |
+| **DEM and motion planning** | Backhoe-tooth wear study and supplied MATLAB map-processing experiments; simulation and computational outputs. |
+| **AI research workflows** | PINN computational work and MATLAB/Python retrieval prototypes; methods and exploratory implementations. |
 
 <details>
 <summary><strong>Explore a supplied motion-planning map processed in MATLAB</strong></summary>
@@ -115,7 +123,11 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 ### Advanced Mechatronics Engineering
 
-**Highlight · the robotic-turtle system.** A sand-walking robot concept brings the mechanical structure, actuation, electronics, sensing, and control problem into one design. The portfolio contains the original presentation, CAD material, calculations, and demonstration media; the diagram below explains their system relationship without inventing a performance metric.
+**Robotic-turtle concept/prototype:** a sand-walking mechanism that brings structure, actuation, electronics, sensing, and control into one engineering system.
+
+| Project material | What it documents |
+| :-- | :-- |
+| Presentation, CAD, calculations, and demonstration media | Design and prototype evidence; no unverified speed, endurance, or field-performance claim. |
 
 <details>
 <summary><strong>Explore the robotic-turtle system</strong></summary>
@@ -128,7 +140,12 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 ### Industrial Engineering and Field Delivery
 
-**Highlight · engineering that survives installation.** The field-work thread follows requirements through design, commissioning, monitoring, and improvement. My portfolio reports elevator monitoring and commissioning, telecommunications implementation, PetroEcuador delivery, and robotic manufacturing transport work. These are **portfolio-reported project records**, not laboratory datasets.
+This area follows requirements through design, commissioning, monitoring, and improvement. The outcomes below are **portfolio-reported project records**, not laboratory datasets.
+
+| Field thread | Evidence status |
+| :-- | :-- |
+| Elevator monitoring and electromechanical commissioning | Portfolio-reported installations and service workflow. |
+| PetroEcuador, telecommunications, and manufacturing transport | Portfolio-reported engineering delivery and implementation records. |
 
 <details>
 <summary><strong>Explore the field-delivery lifecycle</strong></summary>
@@ -141,7 +158,12 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 ### Leadership, Project Management Engineering and Technology Transfer
 
-**Highlight · turning research methods into shared capability.** Research coordination, curriculum and laboratory development, and collaborative projects connect individual investigations to teams and institutions. One concrete methods example is a hybrid-education fuzzy-evaluation workflow with Type-1 and Type-2 inference models; the architecture is shown below, while the source project retains the methodology and results.
+I connect individual investigations to teams, laboratories, education, and applied transfer—not only to publications or prototypes.
+
+| Highlight | Evidence status |
+| :-- | :-- |
+| Hybrid-education fuzzy evaluation | Supplied Type-1/Type-2 FIS models, MATLAB methods, evaluation data, and reported results. |
+| NVIDIA simulation and physical-AI education | Portfolio-reported Omniverse, Isaac Sim, and Jetson workshops, supervision, and technology transfer. |
 
 <details>
 <summary><strong>Explore the fuzzy-evaluation architecture</strong></summary>
@@ -152,25 +174,19 @@ Each highlight opens a piece of the actual portfolio: a measurement-derived plot
 
 </details>
 
-## Methods
+## Skills & Interests
 
-<details>
-<summary><strong>Explore the experimental, computational, and systems toolkit</strong></summary>
-
-| Evidence or question | Methods used in the supplied work |
+| 🔭 Research skill | 🌱 Where I want to keep building |
 | :-- | :-- |
-| Material response | CNT/epoxy preparation and exposure comparisons, DMA, nanoindentation, conductivity testing. |
-| Electromagnetic response | Antenna/resonator design, VNA and NanoVNA acquisition, S11/S21 and scattering analysis. |
-| Mechanistic explanation | RVE and finite-element analysis, resistor networks, diffusion and thermomechanical modelling, DEM studies. |
-| Reproducible interpretation | Python and MATLAB processing, source-data plots, model-versus-experiment comparison. |
-| Physical integration | CAD, electronics, embedded sensing, mechatronic prototyping, commissioning and field validation. |
-
-</details>
+| **Material-to-signal reasoning** — connecting nanocomposite morphology, transport, mechanics, and RF response. | Contactless monitoring of materials in harsh environments. |
+| **Model–measurement comparison** — testing RVE/FEA, diffusion, electrical, and electromagnetic models against experiments. | Reproducible multiphysics workflows and trustworthy scientific computing. |
+| **Instrument-to-system integration** — moving from VNA data and resonant structures to sensing concepts and prototypes. | Wireless/passive sensing, embedded intelligence, and mechatronic systems. |
+| **Research-to-team transfer** — scientific programming, laboratories, teaching, and multidisciplinary delivery. | AI-assisted engineering, physical AI, and collaborations that reach real deployments. |
 
 ## Connect
 
-I welcome conversations about contactless sensing, materials under harsh environments, computational engineering, and research-to-prototype collaboration.
+I welcome research and engineering conversations about contactless sensing, computational materials, RF instrumentation, robotics, and research-to-prototype collaboration.
 
-[Research portfolio](https://tamayovegas.com/) · [LinkedIn](https://www.linkedin.com/in/sebastian-tamayo) · [Research blog](https://www.bambootech.space/)
+✉️ [Email](mailto:mstv.engineering@gmail.com) · 🐙 [GitHub](https://github.com/tamayovegas) · 🤝 [LinkedIn](https://www.linkedin.com/in/sebastian-tamayo) · 🔬 [Research website](https://tamayovegas.com/) · 📖 [Blog](https://www.bambootech.space/)
 
 <sub>Profile visuals are local copies of measurement-derived plots, computational output, or explanatory diagrams from the organized portfolio. See the [provenance notes](docs/figure-provenance.md) for each source and interpretation.</sub>
