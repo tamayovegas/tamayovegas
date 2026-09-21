@@ -32,7 +32,7 @@ My focus is move scientific research toward reliable products and real-world dep
 <p align="center"><strong>Physics → modelling → instrumentation → validation</strong></p>
 
 <p align="center"><strong>🧭 Quick navigation</strong><br />
-<a href="#about">About</a> · <a href="#science--engineering-stack">Science &amp; Engineering Stack</a> · <a href="#six-research-areas">Six Research Areas</a> · <a href="#skills--interests">Skills &amp; Interests</a> · <a href="#connect">Connect</a>
+<a href="#about">About</a> ·<a href="#six-research-areas">Six Research Areas</a> · <a href="#science--engineering-stack">Science &amp; Engineering Stack</a> ·  · <a href="#skills--interests">Skills &amp; Interests</a> · <a href="#connect">Connect</a>
 </p>
 
 ---
