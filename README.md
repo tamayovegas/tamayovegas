@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/profile1.gif" alt="Sebastian Tamayo-Vegas: from physical insight to validated systems" width="100%" />
   <h1>Sebastian Tamayo-Vegas</h1>
-  <p><strong>Scientist-engineer connecting physical science with working systems</strong><br />Nanomaterials · Electromagnetics · Scientific computing · Mechatronics</p>
+  <p><strong>Scientist-engineer connecting physical science with working systems</strong><br /> · Electromagnetics · Nanomaterials · Scientific Computing · Mechatronics · Leadership and Project Management</p>
 
   <p>
     <a href="mailto:mstv.engineering@gmail.com"><img src="assets/badges/email.svg" alt="Email Sebastian" width="126" height="36" /></a>
